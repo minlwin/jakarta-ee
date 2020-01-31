@@ -1,1 +1,1 @@
-# jakarta-ee
+# Jakarta JPA
